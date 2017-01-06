@@ -29,10 +29,10 @@ HDI and Income group was added for no real reason other than I thought it would 
 for future research needs.
 
 The author accepts no liability for any factual, data, format or other errors in the documents. The item was created from public
-information but one person staring at spreadsheets, OpenRefine, EasyMorph and Talend for a couple weeks off and on. It most likely contains some errors and should not be used for a production-level project without significant review and testing.
+information by one person staring at spreadsheets, OpenRefine, EasyMorph and Talend for a couple weeks off and on. It most likely contains some errors and should not be used for a production-level project without significant review and testing. The author's first hunch is that the LAT/LONG fields likely contain issues that need correcting since they were automatically Geocoded (i.e. the Country of Georgia is likely pointing to the US State of Georgia, the Middle East (West Asia) is likely pointing to the mid-East atlantic seaboard in the United States, etc. given that Google tools in the US tend to default to US references.
 
 It is intended to be a cheat-sheet, experiment and potential support to those conducting research or simply interested in this area.
-Please feel free to post any corrections you might see as comments or committ changes if you like.
+Please feel free to post any corrections you might see as comments or submit commits changes if you like.
 
 All data that went into this is public, and so this is too! Information wants to be free.
 
